@@ -1,2 +1,2 @@
 # Detectorize
-Final Year Project Purposal 
+Final Year Project Proposal 
